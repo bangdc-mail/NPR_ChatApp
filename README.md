@@ -21,9 +21,11 @@ In this project, any Compiler Program is acceptable. However, for personal prefe
  ![image](https://user-images.githubusercontent.com/78629757/158966189-8326ffc2-e864-4d31-ac65-f432174c54ea.png)
 
 Fig. 1: Server side window
+
  ![image](https://user-images.githubusercontent.com/78629757/158966195-dc0cf09e-792f-49b1-98f5-e528fbc55de6.png)
 
 Fig. 2: Client side window
+
 Tied with the “Listen”, “Connect” and “Send” button are functions actionPerfomed() in order to link with the methods in a class called ChatMessageSocket. This class (ChatMessageSocket.java) was created to establish the send and receiving function of the program, as well as the initiation of a socket connection between the server host and the client.
 
 II. Discussion
